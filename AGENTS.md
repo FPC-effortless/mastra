@@ -92,3 +92,7 @@ Some code in this repository is licensed under the Mastra Enterprise License ins
 2. **Plugin Architecture** - Pluggable storage, vectors, memory, deployers
 3. **Request Context** - Request-scoped context propagation for dynamic configuration
 4. **Message List Abstraction** - Unified message handling across formats
+
+## Shared FPC universal skill
+
+For substantive engineering, product or research tasks, consult `.agents/skills/fpc-universal/SKILL.md` when relevant. This general skill is subordinate to every repository-specific, nested, safety, architecture, verification and release instruction above.
